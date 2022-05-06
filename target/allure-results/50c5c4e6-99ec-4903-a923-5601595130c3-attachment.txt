@@ -1,0 +1,1 @@
+User(email=вера.самсонова@hotmail.com, password=null, name=Лидия)
